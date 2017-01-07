@@ -12,16 +12,16 @@
   <string name="WrongCountry">തെറ്റായ ഫോൺ കോഡ്</string>
   <!--code enter view-->
   <string name="YourCode">ഫോൺ നമ്പർ പരിശോധന</string>
-  <string name="SentSmsCode">We\'ve sent an SMS with an activation code to your phone <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.</string>
-  <string name="SentAppCode">We\'ve sent the code to the <![CDATA[<b>]]>Telegram<![CDATA[</b>]]> app on your other device.</string>
-  <string name="SentCallCode">We\'ve sent an activation call to your phone <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.\n\nDon\'t take it, Telegram will process everything automatically.</string>
-  <string name="SentCallOnly">We are calling your phone <![CDATA[<b>]]>%1$s<![CDATA[</b>]]> to dictate a code.</string>
+  <string name="SentSmsCode">ഞങ്ങൾ നിങ്ങളുടെ ഫോണിലേക്കു ആക്ടിവേഷൻ കോഡ് അയച്ചു കഴിഞ്ഞു<![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.</string>
+  <string name="SentAppCode">ഞങ്ങൾ കോഡ് നിങ്ങളുടെ വേറെ ഡിവൈസിൽ ഉള്ള  <![CDATA[<b>]]>ടെലിഗ്രാം<![CDATA[</b>]]> ആപ്പിലേക്ക് അയച്ചു കഴിഞ്ഞു.</string>
+  <string name="SentCallCode">ഞങ്ങൾ നിങ്ങളുടെ ഫോൺ <![CDATA[<b>]]>%1$s<![CDATA[</b>]]> ലേക്ക് ആക്ടിവേഷൻ കാൾഅയച്ചിട്ടുണ്ട്.\n\nഅത് എടുക്കേണ്ട ആവശ്യം ഇല്ല ടെലിഗ്രാം എല്ലാം ഓട്ടോമാറ്റിയ്ക്കായി ചെയ്തുകൊള്ളും.</string>
+  <string name="SentCallOnly">ഞങ്ങൾ നിങ്ങളുടെ ഫോൺ <![CDATA[<b>]]>%1$s<![CDATA[</b>]]> ലേക്ക് ഒരു കോഡ് ആവശ്യപ്പെടാനായി വിളിക്കുകയാണ്.</string>
   <string name="CallText">ഞങ്ങൾ നിങ്ങളെ %1$d:%2$02d നു ഉള്ളിൽ വിളിക്കും </string>
   <string name="SmsText"> ഞങ്ങൾ നിങ്ങള്ക്ക്  %1$d:%2$02d നു ഉള്ളിൽ മെസ്സേജ് അയയ്ക്കും </string>
   <string name="Calling">നിങ്ങളെ വിളിക്കുന്നു ...</string>
   <string name="Code">കോഡ് </string>
   <string name="WrongNumber">തെറ്റായ നമ്പർ ?</string>
-  <string name="DidNotGetTheCode">Didn\'t get the code?</string>
+  <string name="DidNotGetTheCode">കോഡ് ലഭിച്ചില്ലേ?</string>
   <string name="CancelAccountReset">അക്കൗണ്ട് പുനഃക്രമീകരണം റദ്ധാക്കുക </string>
   <string name="CancelAccountResetInfo">Somebody with access to your phone number <![CDATA[<b>]]>%1$s<![CDATA[</b>]]> has requested to delete your Telegram account and reset your 2-Step Verification password.\n\nIf this wasn\'t you, please enter the code we\'ve just sent you via SMS to your number.</string>
   <string name="ResetAccount">അക്കൗണ്ട് പുനഃക്രമീകരിക്കുക </string>
@@ -35,19 +35,19 @@
   <string name="YourName">നിങ്ങളുടെ പേര് </string>
   <string name="RegisterText">നിങ്ങളുടെ ആദ്യത്തെയും അവസാനത്തെയും പേരുകൾ സജ്ജമാക്കുക </string>
   <!--<string name="RegisterText">Set up your name and picture</string>-->
-  <string name="FirstName">ആദ്യ പേര്  (നിർബന്ധമായും വേണം )</string>
+  <string name="FirstName">ആദ്യ പേര്  (നിർബന്ധമായും വേണം)</string>
   <string name="LastName">അവസാന പേര് (നിർബന്ധമില്ല )</string>
   <string name="CancelRegistration">രജിസ്ട്രേഷൻ റദ്ദാക്കുക</string>
   <!--chats view-->
   <string name="NewConversationShortcut">പുതിയ സംഭാഷണം</string>
   <string name="Settings">ക്രമീകരണങ്ങൾ</string>
-  <string name="Contacts">ബന്ധങ്ങൾ</string>
+  <string name="Contacts">കോണ്ടക്ട്സ്</string>
   <string name="NewGroup">പുതിയ ഗ്രൂപ്പ് </string>
   <string name="Yesterday">ഇന്നലെ</string>
   <string name="NoResult">ഫലങ്ങളൊന്നും ഇല്ല </string>
   <string name="NoChats">ഇതുവരെ ചാറ്റുകൾ ഇല്ല ...</string>
   <string name="NoChatsHelp">Start messaging by pressing the\nnew message button in the bottom right corner\nor tap the menu button for more options.</string>
-  <string name="WaitingForNetwork">നെറ്റ്‌വർക്കിനായി കാത്തിരിക്കുന്നു ...</string>
+  <string name="WaitingForNetwork">നെറ്റ്വവർക്കിനായി കാത്തിരിക്കുന്നു ...</string>
   <string name="Connecting">ബന്ധിപ്പിക്കുന്നു...</string>
   <string name="Updating">അപ്ഡേറ്റു ചെയ്യുന്നു...</string>
   <string name="NewSecretChat">പുതിയ സീക്രട്ട് ചാറ്റ്</string>
@@ -77,7 +77,7 @@
   <string name="ChatHintsDelete">Delete %1$s from suggestions?</string>
   <string name="LinkPreview">ലിങ്ക് പ്രിവ്യൂ</string>
   <string name="Draft">ഡ്രാഫ്റ്റ്</string>
-  <string name="HistoryCleared">ഹിസ്‌റ്ററി മായ്ക്കപ്പെട്ടു </string>
+  <string name="HistoryCleared">ഹിസ്റ്ററി മായ്ക്കപ്പെട്ടു </string>
   <string name="ArticleByAuthor">by %1$s</string>
   <string name="ArticleDateByAuthor">%1$s by %2$s</string>
   <string name="PreviewFeedback">ഈ പ്രിവ്യൂവിനെപ്പറ്റി  ഫീഡ്ബാക്ക് നൽകുക </string>
